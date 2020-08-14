@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9faf6</color>
+    <color name="colorPrimaryDark">#7b92b3</color>
+    <color name="colorAccent">#92d1b0</color>
+
+    <color name="white">@android:color/white</color>
+
+    <color name="common_bg_list">#55DDDDDD</color>
+    <color name="common_text">#777777</color>
+    <color name="common_divider">#777777</color>
+
+    <color name="progress_mask">#993F3F3F</color>
+</resources>

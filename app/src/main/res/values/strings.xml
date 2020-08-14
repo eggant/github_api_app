@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubAPITask</string>
+
+    <string name="search_input_hint">.....</string>
+</resources>
